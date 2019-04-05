@@ -1,0 +1,9 @@
+C:\Users\Lab3\Desktop\Practica 04.04.2019\Aplicasion1\Aplicasion1\bin\Debug\Aplicasion1.exe.config
+C:\Users\Lab3\Desktop\Practica 04.04.2019\Aplicasion1\Aplicasion1\bin\Debug\Aplicasion1.exe
+C:\Users\Lab3\Desktop\Practica 04.04.2019\Aplicasion1\Aplicasion1\bin\Debug\Aplicasion1.pdb
+C:\Users\Lab3\Desktop\Practica 04.04.2019\Aplicasion1\Aplicasion1\obj\Debug\Aplicasion1.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\Practica 04.04.2019\Aplicasion1\Aplicasion1\obj\Debug\Aplicasion1.Form1.resources
+C:\Users\Lab3\Desktop\Practica 04.04.2019\Aplicasion1\Aplicasion1\obj\Debug\Aplicasion1.Properties.Resources.resources
+C:\Users\Lab3\Desktop\Practica 04.04.2019\Aplicasion1\Aplicasion1\obj\Debug\Aplicasion1.csproj.GenerateResource.Cache
+C:\Users\Lab3\Desktop\Practica 04.04.2019\Aplicasion1\Aplicasion1\obj\Debug\Aplicasion1.exe
+C:\Users\Lab3\Desktop\Practica 04.04.2019\Aplicasion1\Aplicasion1\obj\Debug\Aplicasion1.pdb
