@@ -1,0 +1,38 @@
+c:\users\lab3\documents\visual studio 2013\Projects\Guia1\Guia1\bin\Debug\Guia1.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\Guia1\Guia1\obj\Debug\Guia1.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\Guia1\Guia1\obj\Debug\Guia1.Ejercicios.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Guia1\Guia1\obj\Debug\Guia1.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Guia1\Guia1\obj\Debug\Guia1.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\Guia1\Guia1\bin\Debug\Guia1.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Guia1\Guia1\bin\Debug\Guia1.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Guia1\Guia1\obj\Debug\Guia1.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Guia1\Guia1\obj\Debug\Guia1.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Guia1\Guia1\obj\Debug\Guia1.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Guia1\Guia1\obj\Debug\Guia1.Form2.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Guia1\Guia1\obj\Debug\Guia1.Form3.resources
+D:\Desktop\Guia1\Guia1\bin\Debug\Guia1.exe.config
+D:\Desktop\Guia1\Guia1\obj\Debug\Guia1.exe
+D:\Desktop\Guia1\Guia1\obj\Debug\Guia1.pdb
+D:\Desktop\Guia1\Guia1\bin\Debug\Guia1.exe
+D:\Desktop\Guia1\Guia1\bin\Debug\Guia1.pdb
+D:\Desktop\Guia1\Guia1\obj\Debug\Guia1.csprojResolveAssemblyReference.cache
+D:\Desktop\Guia1\Guia1\obj\Debug\Guia1.Ejercicios.resources
+D:\Desktop\Guia1\Guia1\obj\Debug\Guia1.Form1.resources
+D:\Desktop\Guia1\Guia1\obj\Debug\Guia1.Form2.resources
+D:\Desktop\Guia1\Guia1\obj\Debug\Guia1.Form3.resources
+D:\Desktop\Guia1\Guia1\obj\Debug\Guia1.Properties.Resources.resources
+D:\Desktop\Guia1\Guia1\obj\Debug\Guia1.csproj.GenerateResource.Cache
+D:\Desktop\Guia1\Guia1\obj\Debug\Guia1.Form4.resources
+D:\Desktop\Utec\Ciclo V\Progra 1\Guia1\Guia1\bin\Debug\Guia1.exe.config
+D:\Desktop\Utec\Ciclo V\Progra 1\Guia1\Guia1\obj\Debug\Guia1.exe
+D:\Desktop\Utec\Ciclo V\Progra 1\Guia1\Guia1\obj\Debug\Guia1.pdb
+D:\Desktop\Utec\Ciclo V\Progra 1\Guia1\Guia1\bin\Debug\Guia1.exe
+D:\Desktop\Utec\Ciclo V\Progra 1\Guia1\Guia1\bin\Debug\Guia1.pdb
+D:\Desktop\Utec\Ciclo V\Progra 1\Guia1\Guia1\obj\Debug\Guia1.csprojResolveAssemblyReference.cache
+D:\Desktop\Utec\Ciclo V\Progra 1\Guia1\Guia1\obj\Debug\Guia1.Ejercicios.resources
+D:\Desktop\Utec\Ciclo V\Progra 1\Guia1\Guia1\obj\Debug\Guia1.Form1.resources
+D:\Desktop\Utec\Ciclo V\Progra 1\Guia1\Guia1\obj\Debug\Guia1.Form2.resources
+D:\Desktop\Utec\Ciclo V\Progra 1\Guia1\Guia1\obj\Debug\Guia1.Form3.resources
+D:\Desktop\Utec\Ciclo V\Progra 1\Guia1\Guia1\obj\Debug\Guia1.Form4.resources
+D:\Desktop\Utec\Ciclo V\Progra 1\Guia1\Guia1\obj\Debug\Guia1.Properties.Resources.resources
+D:\Desktop\Utec\Ciclo V\Progra 1\Guia1\Guia1\obj\Debug\Guia1.csproj.GenerateResource.Cache
